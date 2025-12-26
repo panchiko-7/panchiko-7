@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 im panchiko7. I am a developer based in the United States 
+
 I am currently a first year CS student 
+
 I am learning python at the moment
 <!--
 **panchiko-7/panchiko-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
